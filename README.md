@@ -20,5 +20,13 @@ But if admin declines form he must give write reason for decling. After that use
 
 --------------------------------------------------------------------
 
+How to setup 
+
+1. You must have downloaded Node.js https://nodejs.org/en
+2. Then you must have downloaded discord.js through cmd 
+3. After all installations simple type Node index.js 
+
+--------------------------------------------------------------------
+
 If you have problems contact me through my website https://martyc.eu
 
